@@ -1,8 +1,8 @@
-# Blockchain Developer Portfolio 🚀
+# Blockchain Developer Portfolio 
 
 📖 **Overview**
 
-Welcome to my GitHub repository! 🚀 
+Welcome to my GitHub repository! 
 
 This repository serves as my portfolio and a collaborative space where I explore various blockchain projects, contribute to open-source initiatives and showcase my skills as a blockchain developer. Whether you are a fellow developer, a user interested in blockchain technology, or an enthusiast looking to learn more, this README aims to give you a clear understanding of the contents of this repository and how to get involved.
 
@@ -152,7 +152,5 @@ For any inquiries or collaboration opportunities, you can reach me at:
 
 Thanks to the open-source community for their contributions, and to everyone who has supported my journey in blockchain development! 🙏
 
----
 
-## 🔗 **Happy coding!** 🚀
 
