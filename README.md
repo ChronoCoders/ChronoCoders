@@ -21,7 +21,7 @@
 
 - **Trade Sync** - High-performance order matching system built in Rust with sophisticated algorithms and comprehensive testing infrastructure
 - **Hermes** - Secure file transfer application featuring military-grade AES-256-GCM encryption and advanced security protocols
-- **VelocityPay** - USD-backed stablecoin payment system on Substrate with three-layer architecture, KYC pallets, and compliance features
+- **Velocity Pay** - USD-backed stablecoin payment system on Substrate with three-layer architecture, KYC pallets, and compliance features
 
 ## <img src="https://img.shields.io/badge/Recent_Projects-0066cc?style=for-the-badge" alt="Recent Projects"/>
 
