@@ -1,14 +1,27 @@
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   ▄▀█ █   ▀█▀ █ █ █▀▀   ▀█▀ ▄▀█ ▀█▀ █   █ █▀ █ █     ║
+║   █▀█ █▄▄  █  █▄█ █▄█    █  █▀█  █  █▄▄ █ ▄█ █▄█     ║
+║                                                      ║
+║   [ BLOCKCHAIN ] [ RUST ] [ DEFI ] [ WEB3 ]          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EF78F&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Smart+Contracts+%7C+DApps+%7C+Web3;Building+Secure+%26+Scalable+Solutions;Rust+%7C+Solidity+%7C+Substrate" alt="Typing SVG" />
+</p>
+
+---
+
 # Altug Tatlisu
-
-**Blockchain Developer | DApps | Smart Contracts | Web3 | AI Development**
-
-I build secure, scalable solutions on Ethereum and beyond, specializing in robust financial systems, decentralized applications, and developer tooling with a focus on security and performance.
 
 ## <img src="https://img.shields.io/badge/Current_Projects-2ea44f?style=for-the-badge" alt="Current Projects"/>
 
 - **Trade Sync** - High-performance order matching system built in Rust with sophisticated algorithms and comprehensive testing infrastructure
 - **Hermes** - Secure file transfer application featuring military-grade AES-256-GCM encryption and advanced security protocols
-- **Velocity Pay** - USD-backed stablecoin payment system on Substrate with three-layer architecture, KYC pallets, and compliance features
+- **VelocityPay** - USD-backed stablecoin payment system on Substrate with three-layer architecture, KYC pallets, and compliance features
 
 ## <img src="https://img.shields.io/badge/Recent_Projects-0066cc?style=for-the-badge" alt="Recent Projects"/>
 
