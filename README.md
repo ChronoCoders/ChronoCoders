@@ -318,9 +318,11 @@ let stack = TechStack {
 
 <div align="center">
 
-## Random Dev Quote
+## Philosophy
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+> *"The best code is not the most clever, but the most maintainable. The best architecture is not the most novel, but the most pragmatic."*
+> 
+> **— Altug Tatlisu**
 
 </div>
 
