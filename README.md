@@ -271,6 +271,14 @@ let stack = TechStack {
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChronoCoders&theme=github-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=2EF78F&point=FFFFFF&area=true" />
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ChronoCoders/ChronoCoders/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ChronoCoders/ChronoCoders/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ChronoCoders/ChronoCoders/blob/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
