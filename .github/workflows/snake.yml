@@ -1,27 +1,49 @@
----
+name: Generate Snake
 
-<div align="center">
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Her 12 saatte bir çalışır
+  workflow_dispatch:  # Manuel çalıştırma
+  push:
+    branches:
+      - main
 
-## Contribution Activity
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChronoCoders&theme=github-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=2EF78F&point=FFFFFF&area=true" />
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-## Contribution Snake
-
-<img src="https://github.com/ChronoCoders/ChronoCoders/blob/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ---
 
-## 🎯 Örnek Sonuç
+## 📋 KURULUM ADIMLARI
 
-Contribution calendar'ın böyle görünür:
+1. **Repo oluştur**: `ChronoCoders/ChronoCoders` (eğer yoksa)
+
+2. **README.md**: Yukarıdaki kodu yapıştır
+
+3. **Snake workflow oluştur**:
 ```
-Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
-████░░██████░░░█████████░░░███████████░░███████████████
-░███████░░████░███░░░████████░░████████░░░░░░░░░░░░███
-██░░███████████████████░░░███████████████░░████████░░░
+   .github/
+   └── workflows/
+       └── snake.yml
