@@ -305,29 +305,6 @@ let stack = TechStack {
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chronocoders)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/altug-tatlisu)
 
-### Open to Collaboration
-
-- Blockchain & Web3 Projects
-- Security-Critical Systems
-- Rust Open Source Contributions
-- High-Performance Applications
-
-</div>
-
----
-
-<div align="center">
-
-## Philosophy
-
-> *"The best code is not the most clever, but the most maintainable. The best architecture is not the most novel, but the most pragmatic."*
-> 
-> **— Altug Tatlisu**
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
