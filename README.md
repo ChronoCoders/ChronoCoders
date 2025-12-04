@@ -1,4 +1,4 @@
-# Altug Tatlisu
+# Chrono Coder
 
 **Blockchain Architect • Systems Engineer • Cryptography Specialist**
 
