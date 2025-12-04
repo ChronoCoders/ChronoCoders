@@ -2,7 +2,11 @@
 
 **Blockchain Architect • Systems Engineer • Cryptography Specialist**
 
-30 years building high-performance distributed systems. Currently focused on zero-knowledge protocols, custom consensus mechanisms, and privacy-preserving infrastructure.
+Three decades building high-performance distributed systems, from trading infrastructure to privacy-preserving protocols. Currently focused on zero-knowledge cryptography, custom consensus mechanisms, and blockchain architecture.
+
+**Core Expertise:** Rust • Blockchain • Cryptography • DeFi • Distributed Systems • Privacy Tech • Open Source
+
+Experience spans financial systems, security protocols, and decentralized infrastructure. All projects emphasize formal security analysis, production-grade code quality, and comprehensive documentation.
 
 ---
 
