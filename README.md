@@ -16,7 +16,7 @@ I have spent 30+ years close to the machine — C, Assembly, and C++ — and now
 
 ## Interests
 
-Latency, determinism, and failure modes. Protocol design where the threat model is real. The unglamorous parts of distributed systems — settlement finality, consensus under partition, the difference between "passed the tests" and "correct."
+Latency, determinism, and failure modes. Protocol design where the threat model is real. The unglamorous parts of distributed systems, settlement finality, consensus under partition, the difference between "passed the tests" and "correct."
 
 ## Contact
 
