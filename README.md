@@ -2,7 +2,7 @@
 
 Founder & Principal Engineer at Distributed Systems Labs. New York.
 
-I have spent 30+ years close to the machine — C, Assembly, and C++ — and now work primarily in Rust. My focus is systems where correctness is not negotiable: privacy protocols, onion routing, blockchain infrastructure, high-frequency trading, and settlement rails for regulated institutions.
+I have spent 30+ years close to the machine. C, Assembly, and C++ and now work primarily in Rust. My focus is systems where correctness is not negotiable: privacy protocols, onion routing, blockchain infrastructure, high-frequency trading, and settlement rails for regulated institutions.
 
 ## Work
 
