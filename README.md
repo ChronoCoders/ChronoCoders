@@ -10,7 +10,7 @@ I have spent 30+ years close to the machine. C, Assembly, and C++ and now work p
 - **Settrum** — wholesale settlement layer for regulated institutions.
 - **Bytus** — crypto-to-fiat settlement.
 - **Axiom** — commercial notarization and audit infrastructure.
-- **Spreadara** — high-frequency market making, C++17.
+- **Spreadara** — high-frequency market making.
 - **Darkrouter** — onion routing.
 - **Genuflow** — luxury goods authentication.
 
