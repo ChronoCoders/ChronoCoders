@@ -24,7 +24,3 @@ Latency, determinism, and failure modes. Protocol design where the threat model 
 - contact@chronocoder.dev
 - chronocoder.dev
 - LinkedIn: in/altug-tatlisu
-
----
-
-Şimdi hepsi düz hyphen (-). Em dash yok. Bu haliyle kopyalayabilirsin.
