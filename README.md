@@ -6,13 +6,14 @@ Thirty years close to the machine. C, Assembly, and C++, and now primarily Rust.
 
 ## Work
 
-- **Ferrous** — Layer 1 blockchain, written in Rust.
-- **Settrum** — wholesale settlement layer for regulated institutions.
-- **Bytus** — crypto-to-fiat settlement.
-- **Axiom** — commercial notarization and audit infrastructure.
-- **Spreadara** — high-frequency market making.
-- **Darkrouter** — onion routing.
-- **Genuflow** — luxury goods authentication.
+- **Ferrous** - Layer 1 blockchain in Rust. RandomX PoW, BIP39 wallets, Shamir recovery, post-quantum signatures.
+- **Settrum** - wholesale settlement layer for regulated institutions, on a permissioned Substrate chain.
+- **Bytus** - ledger-first crypto-to-fiat settlement with an append-only cryptographic audit chain.
+- **Axiom** - compact, deterministic, quorum-finality ledger for commercial notarization and audit.
+- **Arcmint** - federated accountable-anonymous e-cash on Bitcoin.
+- **Locproof** - tamper-resistant proof that two parties shared a physical location.
+- **Stride** - local AI on your own machine. Private by default, fast, built for the hardware you already own.
+- **Spawn** - Rust game engine. Archetype ECS, wgpu rendering, Rapier physics, Lua scripting.
 
 ## Interests
 
@@ -21,5 +22,9 @@ Latency, determinism, and failure modes. Protocol design where the threat model 
 ## Contact
 
 - contact@chronocoder.dev
-- [chronocoder.dev](https://chronocoder.dev)
-- [LinkedIn](https://linkedin.com/in/altug-tatlisu)
+- chronocoder.dev
+- LinkedIn: in/altug-tatlisu
+
+---
+
+Şimdi hepsi düz hyphen (-). Em dash yok. Bu haliyle kopyalayabilirsin.
