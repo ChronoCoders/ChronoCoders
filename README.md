@@ -22,5 +22,6 @@ Latency, determinism, and failure modes. Protocol design where the threat model 
 ## Contact
 
 - contact@chronocoder.dev
+- hello@dslabs.network
 - chronocoder.dev
 - LinkedIn: in/altug-tatlisu
